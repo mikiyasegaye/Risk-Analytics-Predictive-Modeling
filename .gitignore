@@ -196,3 +196,4 @@ cython_debug/
 # RAW Data Files
 *.csv
 *.txt
+*.pkl
